@@ -8,3 +8,5 @@
 
 PS: 也可以顺便做一个各国语言say hello的对比?
 PS: ST2, PHPSTORM等编辑器的实用快捷键的对比？
+
+PS: 似乎已经有一个类似的[demo](http://todomvc.com/)了
