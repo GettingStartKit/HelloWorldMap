@@ -1,12 +1,24 @@
-主流语言的hello world对比
+# 语言(Programming Language 和 Scripting Language)
+### Programming Language (不了解不专精的部分可以考虑先不做, 集中精力)
+* C
+* C#
+* PHP(存疑Php)
+* ...
+### Scripting Language (暂时专注于前端涉及的领域)
+* JavaScript
+* ...
 
-问题: 如何让这个对比更直观, 方便查看
-```
-|C|C++|C#|Python|Ruby|Javascript|
-```
-| - | - | - | - | - |
+# 框架
+### 前端框架
 
-PS: 也可以顺便做一个各国语言say hello的对比?
-PS: ST2, PHPSTORM等编辑器的实用快捷键的对比？
+# 预编译工具
 
-PS: 似乎已经有一个类似的[demo](http://todomvc.com/)了
+# 构建工具
+
+# 编辑器
+
+# IDE
+
+* PS: ST2和NP++, PHPSTORM和eclipse等编辑器/IDE的实用快捷键的对比？
+
+* PS: 前端框架方面, 似乎已经有一个类似的[demo](http://todomvc.com/)了
